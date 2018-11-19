@@ -1,0 +1,38 @@
+{
+    "directed": false,
+    "graph": {},
+    "links": [
+        {"source": "J.F. Kennedy", "target": "Villejean-Université"},
+        {"source": "Villejean-Université", "target": "Pontchaillou"},
+        {"source": "Pontchaillou", "target": "Anatole France"},
+        {"source": "Anatole France", "target": "Sainte-Anne"},
+        {"source": "Sainte-Anne", "target": "République"},
+        {"source": "République", "target": "Charles De Gaulle"},
+        {"source": "Charles De Gaulle", "target": "Gares"},
+        {"source": "Gares", "target": "Jacques Cartier"},
+        {"source": "Jacques Cartier", "target": "Clemenceau"},
+        {"source": "Clemenceau", "target": "Henri Fréville"},
+        {"source": "Henri Fréville", "target": "Italie"},
+        {"source": "Italie", "target": "Triangle"},
+        {"source": "Triangle", "target": "Le Blosne"},
+        {"source": "Le Blosne", "target": "La Poterie"}
+    ],
+    "multigraph": false,
+    "nodes": [
+        {"id": "J.F. Kennedy"},
+        {"id": "Villejean-Université"},
+        {"id": "Pontchaillou"},
+        {"id": "Anatole France"},
+        {"id": "Sainte-Anne"},
+        {"id": "République"},
+        {"id": "Charles De Gaulle"},
+        {"id": "Gares"},
+        {"id": "Jacques Cartier"},
+        {"id": "Clemenceau"},
+        {"id": "Henri Fréville"},
+        {"id": "Italie"},
+        {"id": "Triangle"},
+        {"id": "Le Blosne"},
+        {"id": "La Poterie"}
+    ]
+}
